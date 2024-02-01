@@ -2,7 +2,10 @@
 title: "Rmarkdown set to html"
 author: "Camargo, Lucky"
 date: "2024-02-01"
-output: html_document
+output: 
+  prettydoc::html_pretty:
+    theme: cayman
+    toc: yes
 ---
 
 ```{r setup, include=FALSE}
