@@ -1,6 +1,6 @@
 ---
 title: "Lacourdaire Camargo"
-author: "luckycamaro1011@gmail.com"
+author: "luckycamargo1011@gmail.com"
 output: tufte::tufte_html
 ---
 
@@ -11,22 +11,214 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```
 
-## Professional Experience
+Analytical and data-driven professional with expertise in research design, analysis, and communication. Experienced in community engagement and partnership development with healthcare providers and service agencies. Strong skills in problem-solving, project management, and communicating complex information to diverse stakeholders.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+# Professional Experience
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Illinois Department of Revenue-Chicago, IL
 
-```{r cars}
-summary(cars)
-```
+Office of Fiscal and Economic Research
 
-## Including Plots
+**Intern**
 
-You can also embed plots, for example:
+06/22 to Present
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+-   Research and bill analysis on diverse set of economic proposals associated with taxes administered and industries: Income Inequality; Individual Income tax; Sales and use tax.
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+-   Assist with the calculation of revenue impact for legislative bill proposals by collecting data and synthesizing figures.
+
+Sinai Health System-Chicago, IL
+
+Sinai Urban Health Institute (SUHI)
+
+**Community Engagement Specialist**
+
+08/21 to 06/22
+
+-   Developed and maintained relationships with community organizations, healthcare providers, and other stakeholders to increase awareness of SUHI activities and engage them in research initiatives.
+
+-   Organize, administer, coordinate, and follow up on focus group research associated with the evaluation of public health programs on south and west side Chicago communities with staff and patients.
+
+-   Presented research findings to internal and external audiences.
+
+-   Manage and oversee evaluation dissemination activities by assigning tasks, managing schedules, reviewing work, and providing feedback.
+
+-   Present, lead and facilitate all aspects of SUHI’s Community Advisory Committee meetings, including member relationship development and management, ongoing member engagement, meeting planning and facilitation, onboarding and orientation, and communication.
+
+-   Oversee the timely disbursement of payments to Community Advisory Committee members.
+
+-   Establish linkages and partnerships with healthcare providers and service agencies to facilitate resource sharing, gather information and facilitate technical assistance.
+
+-   Provide logistical and research support to the strategy evaluation team.
+
+-   Develop and maintain research notes related to the evaluation of grant program meetings.
+
+-   Prepare monthly presentations for Community Advisory Committee that adheres to research aims of grant program.
+
+-   Initiate and establish external partnerships to collect data for research opportunities.
+
+-   Contribute and assist in writing findings for research reports for funders on grants.
+
+-   Create and storing research notes-synthesize notes by identifying themes.
+
+-   Conduct focus group interviews and synthesize analysis.
+
+-   Assist with the preparation of narrative reports on program activities for Mid-year and End of year reports for funders.
+
+-   Conduct, lead coordination and scheduling of survey collection for Equity First Vaccine Initiative, a Nationwide survey funded by Rockefeller Foundation.
+
+-   Interface with community-based organizations and sector specific contacts externally to expand and foster new relationships and engagement pathways toward public health collaborations.
+
+Northeastern Illinois University-Chicago, IL
+
+Economics Department
+
+**Research Assistant**
+
+01/20 to 01/21
+
+-   Identify, collect and analyze land values for select Cook County, Illinois townships for years 1946- 1960 utilizing Olcott Value Book Archives relating to research that evaluates redlining policies, land values and spatial location.
+
+-   Utilizing QGIS, create map that digitizes and merges non-spatial data to spatial shapefiles.
+
+-   Retrieve annexation plat records for select Cook County suburbs through the Cook County Recorder of Deeds archives to review and identify race restriction covenants recorded on plat of subdivision.
+
+University of Illinois-Chicago, IL
+
+MBA 594, Management of Public Health Course
+
+**Research Assistant**
+
+06/20 to 07/20
+
+-   Collect digital research related to public health management policy, theory and practice for China, USA, Cuba, England.
+
+-   File and track FOIA requests with CDPH and IDPH that provide distribution of covid testing access, frequency and demographic breakdown by covid testing site in City of Chicago.
+
+-   Collect and organize written research from publications on covid19 activities by local & state public health departments, evaluating cutbacks and privatization activity since January 1, 2020.
+
+-   Coordinated and presented demographic/spatial data relating to covid-19 testing access by Chicago zip code.
+
+Northeastern Illinois University- Chicago, IL
+
+Stage Center Theater
+
+**Box Office and Stage Manager**
+
+03/18-05/20
+
+-   Create and communicate weekly cast rehearsals, call times, performance schedule, and show content: recording specifics on roles and cues for main stage performers.
+
+-   Implement and track minor adjustments to sets and equipment.
+
+-   Oversee ticket sales and transactions: ensuring the security of money exchanged.
+
+Northeastern Illinois University-Chicago, Illinois
+
+Mathematics Community Center
+
+**Math Peer Leader**
+
+07/19-08/19
+
+-   Provide mathematical support to first-time incoming freshmen.
+
+-   Work closely with their assigned students throughout each component of the 3-week math session.
+
+-   Provide broad academic support and guidance to corresponding campus resources.
+
+Campaign to Elect Richard Juarez Aldermanic Election-Chicago, Illinois
+
+**Campaign Director**
+
+02/18-02/19
+
+-   Provide administrative support, including electronic correspondence and filings for campaign disclosures.
+
+-   Door to door canvassing
+
+-   Prepared, analyzed, and monitored campaign expenses and revenues.
+
+-   Planned, designed, and managed events such as volunteer training to increase candidate awareness as well as fundraising events.
+
+-   Coordinated and scheduled media interviews for the candidate
+
+UNO Charter School Network - Chicago, Illinois
+
+**Mission Advancement and Development Director**
+
+11/15-08/16
+
+-   Developed, executed, and tracked results for annual fundraising plan by securing financial support from individuals, foundations, and corporations.
+
+-   Developed proposals and reports for foundation and corporate fundraising.
+
+**Outreach and Leadership Development Coordinator**
+
+01/14-11/15
+
+-   Development of parent survey that gauge’s perceptions and interests around parent engagement and activities
+
+<!-- -->
+
+-   Planned and administered outreach programs focused on parental engagement reaching 1000+ families.
+
+-   Advanced policy initiatives through local authorizers and the Illinois legislature for school funding equity
+
+<!-- -->
+
+-   Developed and facilitated graduate support programs for middle school to high school matriculation.
+
+<!-- -->
+
+-   Interviewed, recruited, trained, and developed staff members/volunteers for community outreach activities and intergovernmental meetings with local and state legislators and stakeholders.
+
+**Director of UNO 5k Race of the Dead**
+
+04/11-12/13
+
+-   Monitored a \$130,000 budget including the negotiation of 5k race related service agreements and contracts related to 5k race event purchases.
+
+<!-- -->
+
+-   Calculated expense projections with senior and mid-level managers for 5k race event serving 2000+ participant event.
+
+-   Developed media plan, established media relations and donor cultivation that exceeded fundraising benchmark by 36%.
+
+-   Develop, train, and supervise 5k race staff and volunteers.
+
+-   Ensure compliance with insurance, legal, health and safety obligations at events.
+
+# Education
+
+Master of Science (M.S.), Civic Analytics, College of Urban Planning, Public Affairs and Analytics, University of Illinois, Chicago, IL, Expected Graduation May 2024
+
+Bachelor of Arts (B.A.), Economics, Minor in Philosophy (summa cum laude), Northeastern Illinois University, Chicago, IL, December 2020
+
+# Conference Presentations
+
+Northeastern Illinois University, Student Center for Science Engagement- Chicago, Illinois, 2020
+
+12th Annual Research Symposium-Trading Coal for Diesel: An Analysis on Ambient Air and its Link to Cancer
+
+# Awards and Honors
+
+Alpha Chi National Honor Society, 2019
+
+Omicron Delta Epsilon (ODE), 2019
+
+# Volunteer
+
+Co-led Several Flu Shot and Covid Vaccine/Testing Pop-Ups that served 3000 Chicago residents, 2020-2023
+
+Lucha Por La Villita f/k/a Mi Villita Neighbors (Co-founder), 2018-Present.
+
+Chicago Youth Boxing Club, Vice-Chair, Board of Directors, 2012-2020
+
+# Languages
+
+Fluent in Spanish Oral and Written
+
+# Skills
+
+R Programming \* GIS software (ESRI and QGIS) \* GitHub \* Full Microsoft Office Suite \* G Suite
