@@ -1,8 +1,8 @@
 ---
-title: "Rmarkdown set to html"
-author: "Camargo, Lucky"
-date: "2024-02-01"
-output: rmdformats::readthedown
+title: "This is a tufte_html Themes YAML from `tufte` Package"
+author: "Type your name here"
+date: "`r Sys.Date()`"
+output: tufte::tufte_html
 ---
 
 ```{r setup, include=FALSE}
