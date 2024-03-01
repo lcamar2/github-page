@@ -1,7 +1,6 @@
 ---
-title: "This is a tufte_html Themes YAML from `tufte` Package"
-author: "Type your name here"
-date: "`r Sys.Date()`"
+title: "Lacourdaire Camargo"
+author: "luckycamaro1011@gmail.com"
 output: tufte::tufte_html
 ---
 
